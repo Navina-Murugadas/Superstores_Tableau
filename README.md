@@ -16,12 +16,12 @@ The dashboards assist in sales performance tracking, profitability analysis, cus
 ## 📌 Table of Contents
 
 1. [Introduction](#introduction)  
-4. [Prerequisites](#prerequisites)  
-5. [Data Sources](#data-sources)   
-7. [Tableau Visualizations](#tableau-visualizations)  
-10. [Key Takeaways](#key-takeaways)  
-11. [Contact](#contact)  
-12. [Dashboard Images](#dashboard-images)  
+2. [Prerequisites](#prerequisites)  
+3. [Data Sources](#data-sources)   
+4. [Tableau Visualizations](#tableau-visualizations)  
+5. [Key Takeaways](#key-takeaways)  
+6. [Contact](#contact)  
+7. [Dashboard Images](#dashboard-images)  
 
 ## 📌 Introduction
 
