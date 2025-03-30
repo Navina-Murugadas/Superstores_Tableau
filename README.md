@@ -36,7 +36,7 @@ Ensure you have the following software installed:
 The primary dataset used in this project is:
 Sample - Superstore.xls - Contains transactional data, including order details, customer information, product categories, sales, profit, and region-wise distribution.
 
-## Tableau Visualzations
+## Tableau Visualizations
 The Tableau dashboard consists of multiple interactive charts and graphs, including:
 
 - KPI Cards - Displaying Total Sales, Total Profit, Order Quantity, and Total Customers
