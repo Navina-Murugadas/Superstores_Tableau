@@ -9,7 +9,7 @@ This project includes:
 ✔️ 40 Calculated Fields for advanced metric calculations.  
 ✔️ LOD (Level of Detail) Expressions for granular data insights.  
 ✔️ Filters & Parameters for interactive user control.  
-✔️ Bins & Histograms for distribution analysis.  
+✔️ Bins for distribution analysis.  
 
 The dashboards assist in sales performance tracking, profitability analysis, customer segmentation, and order management.
 
