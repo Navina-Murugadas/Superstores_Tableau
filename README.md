@@ -69,8 +69,11 @@ If you have any questions or feedback, please feel free to reach out:
 
 ## Dashboard Images
 ![Superstores 1](https://github.com/user-attachments/assets/cb219e27-6d8a-481d-be25-feb1f3bc8be8)
+
 ![Superstores1](https://github.com/user-attachments/assets/9b77257b-2ccf-4c1d-8d20-d36c1921f81c)
+
 ![Superstores 2](https://github.com/user-attachments/assets/1fffc11d-cbf7-4c7f-abcd-ba846300d717)
+
 ![Superstores2](https://github.com/user-attachments/assets/7562f5a9-bab2-4940-b439-462dea3a3490)
 
 
