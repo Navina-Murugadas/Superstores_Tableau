@@ -47,7 +47,7 @@ The Tableau dashboard consists of multiple interactive, selective charts and gra
 
 - Table - Detailed breakdown of sales performance
 
-👉 **[View the Interactive Tableau Dashboard](https://public.tableau.com/views/Superstores_NamasteSQL/Superstores1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)** - 1920x1080 resolution
+👉 **[View the Interactive Tableau Dashboard](https://public.tableau.com/views/Superstores_TableauDashboard/Superstores1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)** - 1920x1080 resolution
 
 
 ## Key Takeaways
